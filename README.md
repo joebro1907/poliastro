@@ -65,18 +65,9 @@ poliastro requires the following Python packages:
 poliastro is supported on Linux, macOS and Windows on Python 3.8 to 3.10.
 
 
-## Installation
+## Installation (this fork)
 
-Multiple installation methods are supported by poliastro, including:
-
-|                             **Logo**                              | **Platform** |                                    **Command**                                    |
-|:-----------------------------------------------------------------:|:------------:|:---------------------------------------------------------------------------------:|
-|       ![PyPI logo](https://simpleicons.org/icons/pypi.svg)        |     PyPI     |                        ``python -m pip install poliastro``                        |
-| ![Conda Forge logo](https://simpleicons.org/icons/condaforge.svg) | Conda Forge  |                 ``conda install poliastro --channel conda-forge``                 |
-|     ![GitHub logo](https://simpleicons.org/icons/github.svg)      |    GitHub    | ``python -m pip install https://github.com/poliastro/poliastro/archive/main.zip`` |
-
-For other installation methods, see the [alternative installation methods].
-
+|     ![GitHub logo](https://simpleicons.org/icons/github.svg)      |    GitHub    | ``python -m pip install https://github.com/joebro1907/poliastro/archive/main.zip`` |
 
 ## Documentation
 
@@ -134,49 +125,12 @@ the library. Please refer to the [COPYING] file.
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 
-If you are planning to use poliastro with commercial purposes consider
-[sponsoring the project](#Backers-and-sponsors).
-
 
 ## Problems and suggestions
 
 If for any reason you get an unexpected error message or an incorrect result,
 or you want to let the developers know about your use case, please open a new
 issue in the [issue tracker] and we will try to answer promptly.
-
-
-## Contributing and community support
-
-This project exists thanks to all the people who contribute! poliastro is a
-community project, hence all contributions are more than welcome! For more
-information, head to the [CONTRIBUTING.md] file.
-
-Release announcements and general discussion take place on our [mailing list].
-
-For further clarifications and discussions, feel free to join poliastro's [chat
-room].
-
-![Contributors image](https://opencollective.com/poliastro/contributors.svg?width=890&button=false)
-
-
-## Backers and sponsors
-
-poliastro requires finnacial support to mantain its high quality standars. The
-money is used to renew the web domain and updating the documentation hosting
-subscription among others.
-
-If you would like to support poliastro, consider [becoming a backer] or
-[becoming a sponsor]. 
-
-**Thanks to all our backers!**
-
-[![Backers](https://opencollective.com/poliastro/backers.svg?width=890)](https://opencollective.com/poliastro#backer)
-
-
-**Thanks to all our sponsors!**
-
-[![Sponsors](https://opencollective.com/poliastro/sponsor/0/avatar.svg)](https://opencollective.com/poliastro/sponsor/0/website)
-[![Sponsors](https://opencollective.com/poliastro/sponsor/1/avatar.svg)](https://opencollective.com/poliastro/sponsor/0/website)
 
 
 ## Frequently asked questions
@@ -186,24 +140,14 @@ If you would like to support poliastro, consider [becoming a backer] or
   poliastro comes from Polimi, which is the shortened name of the Politecnico di
   Milano, see the [acknowledgement from the original author]. *Grazie mille!*
 
-* **Is poliastro validated?**
-
-  Yes! poliastro is a community project that strives to be easy to use, while at
-  the same time producing correct results [that are validated] against other
-  [commonly used Astrodynamics software] such as GMAT and Orekit.
-
 * **Can I suggest new features for poliastro?**
 
-  Sure, we encourage you to [open an issue] so we can discuss future feature
-  additions!
+  Sure, [open an issue] so we can discuss future feature additions!
+  I'm a begginer in Python, but that's what github is for: collaboration and improvement :)
 
 * **What's the future of the project?**
 
-  poliastro is actively maintained and receiving an influx of new contributors
-  thanks to the generous sponsorship of Google, the European Space Agency, and
-  NumFOCUS. The best way to get an idea of the roadmap is to see the
-  [milestones] of the project.
-
+  The **original** poliastro repository has been archived. This is just a fork with some minor modifications to make my IOD project work. See #link here
 
 <!-- LINKS AND REFERENCES -->
 
@@ -231,7 +175,6 @@ If you would like to support poliastro, consider [becoming a backer] or
 [becoming a backer]: https://opencollective.com/poliastro#backer
 [becoming a sponsor]: https://opencollective.com/poliastro#sponsor
 [acknowledgement from the original author]: https://docs.poliastro.space/en/stable/history.html#acknowledgement-from-the-original-author
-
 
 <!-- Badges -->
 

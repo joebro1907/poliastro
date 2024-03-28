@@ -10,9 +10,9 @@
 
 [![poliastro Logo](https://raw.githubusercontent.com/poliastro/poliastro/main/docs/source/_static/logo_readme.png)](https://docs.poliastro.space/en/stable/)
 
-| **Name**  |                        **Website**                         |                                                         **Authors**                                                       |                                      **Maintainers**                                      |                     **Version**                      |
-|:---------:|:----------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:----------------------------------------------------:|
-| poliastro | [https://www.poliastro.space](https://www.poliastro.space) | [Juan Luis Cano Rodriguez](https://orcid.org/0000-0002-2187-161X) [Jorge Martinez](https://orcid.org/0000-0001-9622-2369) | [poliastro development team](https://github.com/poliastro/poliastro/blob/main/AUTHORS.md) | [0.18.dev0](https://github.com/poliastro/poliastro/) |
+| **Name**  |                        **Website**                         |                                                         **Authors**                                                       |                     **Version**                      |
+|:---------:|:----------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------:|
+| poliastro | [https://www.poliastro.space](https://www.poliastro.space) | [Juan Luis Cano Rodriguez](https://orcid.org/0000-0002-2187-161X) [Jorge Martinez](https://orcid.org/0000-0001-9622-2369) | [0.18.dev0](https://github.com/poliastro/poliastro/) |
 
 [![poliastro_badge]](https://github.com/poliastro/poliastro)
 [![ci_badge]](https://circleci.com/gh/poliastro/poliastro/?branch=main)

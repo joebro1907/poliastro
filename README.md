@@ -14,24 +14,6 @@
 |:---------:|:----------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------:|
 | poliastro | [https://www.poliastro.space](https://www.poliastro.space) | [Juan Luis Cano Rodriguez](https://orcid.org/0000-0002-2187-161X) [Jorge Martinez](https://orcid.org/0000-0001-9622-2369) | [0.18.dev0](https://github.com/poliastro/poliastro/) |
 
-[![poliastro_badge]](https://github.com/poliastro/poliastro)
-[![ci_badge]](https://circleci.com/gh/poliastro/poliastro/?branch=main)
-[![docs_badge]](https://docs.poliastro.space/en/latest/?badge=latest)
-[![coverage_badge]](https://codecov.io/github/poliastro/poliastro?branch=main) 
-[![pre_commit_badge]](https://results.pre-commit.ci/latest/github/poliastro/poliastro/main) 
-[![python_badge]](https://pypi.org/project/poliastro) 
-[![pypi_badge]](https://pypi.org/project/poliastro) 
-[![license_badge]](https://opensource.org/licenses/MIT) 
-[![doi_badge]](https://zenodo.org/badge/latestdoi/11178845) 
-[![astropy_badge]](https://zenodo.org/badge/latestdoi/11178845) 
-[![mailing_badge]](https://groups.io/g/poliastro-dev) 
-[![chat_badge]](http://chat.poliastro.space/) 
-[![backers_badge]](https://opencollective.com/poliastro/) 
-[![sponsors_badge]](https://opencollective.com/poliastro/) 
-[![binder_badge]](https://mybinder.org/v2/gh/poliastro/poliastro/main?labpath=index.ipynb) 
-[![code_badge]]()
-
-
 poliastro is an open source ([MIT](#License)) pure Python library for interactive
 Astrodynamics and Orbital Mechanics, with a focus on ease of use, speed, and
 quick visualization. It provides a simple and intuitive API, and handles

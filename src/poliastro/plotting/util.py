@@ -14,7 +14,6 @@ BODY_COLORS = {
     "Neptune": "#3b66d4",
 }
 
-
 def generate_label(epoch, label):
     epoch_ = f"{epoch.to_value('iso', subfmt='date_hm')}"
     if label == "Epoch":
@@ -23,19 +22,14 @@ def generate_label(epoch, label):
         label_ = ""
     else:
         label_ = label
-
     return label_
-
 
 def generate_sphere(radius, center, num=20):
     u1 = np.linspace(0, 2 * np.pi, num)
     v1 = u1.copy()
     uu, vv = np.meshgrid(u1, v1)
-
     x_center, y_center, z_center = center
-
     xx = x_center + radius * np.cos(uu) * np.sin(vv)
     yy = y_center + radius * np.sin(uu) * np.sin(vv)
     zz = z_center + radius * np.cos(vv)
-
     return xx, yy, zz

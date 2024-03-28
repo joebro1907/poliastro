@@ -49,7 +49,7 @@ poliastro is supported on Linux, macOS and Windows on Python 3.8 to 3.10.
 
 ## Installation (this fork)
 
-|  ![GitHub logo](https://simpleicons.org/icons/github.svg)  | ``python -m pip install https://github.com/joebro1907/poliastro/archive/main.zip`` |
+|  GitHub  | ``python -m pip install https://github.com/joebro1907/poliastro/archive/main.zip`` |
 
 ## Documentation
 

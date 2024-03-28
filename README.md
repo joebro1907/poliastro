@@ -60,26 +60,6 @@ be read on the wonderful [Read the Docs]. Multi-version documentation includes:
 * [Stable documentation](https://docs.poliastro.space/en/stable/)
 
 
-## Examples, background and talks
-
-There is a great variety of examples demostrating the capabilities of
-poliastro. Examples can be accessed in various ways:
-
-* Examples source code collected in the [examples directory]
-* Rendered [gallery of examples] presented in the documentation
-* Interactive examples powered by [binder] so users can try poliastro without installing it
-
-poliastro is also promoted through conferences and talks. These are the latest
-talks in some of the most popular conferences about scientific software:
-
-| **Conference**  |                                                                                                  **Talk**                                                                                                   |
-|:---------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|   SciPy 2022    |                                                [Per Python ad astra: Interactive Astrodynamics with poliastro](https://www.youtube.com/watch?v=0GqdIRdDe9c)                                                 |
-|   OSCW  2019    |                                                        [Interplanetary mission analysis with poliastro](https://www.youtube.com/watch?v=0GqdIRdDe9c)                                                        |
-| EuroSciPy 2019  | [Can we make Python fast without sacrificing readability? numba for Astrodynamics](https://pyvideo.org/euroscipy-2019/can-we-make-python-fast-without-sacrificing-readability-numba-for-astrodynamics.html) |
-| EuroPython 2016 |                                                             [Per Python ad Astra](https://pyvideo.org/europython-2016/per-python-ad-astra.html)                                                             |
-
-
 ## License
 
 poliastro is released under the MIT license, hence allowing commercial use of

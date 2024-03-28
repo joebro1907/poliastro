@@ -291,11 +291,11 @@ class Matplotlib2D(OrbitPlotterBackend):
 
         self.ax.legend(
             loc="upper left",
-            bbox_to_anchor=(1.05, 1.015),
-            title="Names and epochs",
+            bbox_to_anchor=(1, 1.015),
+            title=r"$\bf{Orbits}$",
             numpoints=1,
         )
-
+    
     def resize_limits(self):
         """Resize the limits of the scene."""
         self.ax.relim()

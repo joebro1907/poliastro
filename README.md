@@ -91,9 +91,10 @@ the library. Please refer to the [COPYING] file.
 ## Problems and suggestions
 
 If for any reason you get an unexpected error message or an incorrect result,
-or you want to let the developers know about your use case, please open a new
-issue in the [issue tracker] and we will try to answer promptly.
+or you want to let me know about your use case, please open a new
+issue in the [issue tracker].
 
+I'm a begginer in Python, so I'll try my best, but that's what github is for: collaboration and improvement :)
 
 ## Frequently asked questions
 
@@ -101,11 +102,6 @@ issue in the [issue tracker] and we will try to answer promptly.
 
   poliastro comes from Polimi, which is the shortened name of the Politecnico di
   Milano, see the [acknowledgement from the original author]. *Grazie mille!*
-
-* **Can I suggest new features for poliastro?**
-
-  Sure, [open an issue] so we can discuss future feature additions!
-  I'm a begginer in Python, but that's what github is for: collaboration and improvement :)
 
 * **What's the future of the project?**
 

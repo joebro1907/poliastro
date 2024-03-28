@@ -1,4 +1,4 @@
-**The original poliastro library was archived. This is a fork of it with minor modifications**
+**THE ORIGINAL POLIASTRO LIBRARY WAS ARCHIVED. This is a fork of it with minor modifications**
 
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 

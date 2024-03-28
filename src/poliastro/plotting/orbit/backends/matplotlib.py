@@ -206,9 +206,11 @@ class Matplotlib2D(OrbitPlotterBackend):
             Desired units of lenght used for representing distances.
 
         """
-        self.ax.set_xlabel(f"$x$ ({length_scale_units.name})")
-        self.ax.set_ylabel(f"$y$ ({length_scale_units.name})")
-
+        self.ax.set_xlabel(f"x [{length_scale_units.name}]", 
+                           fontweight = 'bold')
+        self.ax.set_ylabel(f"y [{length_scale_units.name}]", 
+                           fontweight = 'bold')
+    
     def draw_coordinates(self, coordinates, *, colors, dashed, label):
         """Draw desired coordinates into the scene.
 

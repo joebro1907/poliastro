@@ -485,7 +485,7 @@ class OrbitPlotter:
         # Get body color and label
         if color is None:
             color = BODY_COLORS.get(body.name)
-        label = generate_label(epoch, label or str(body))
+        label = generate_label(epoch, label)
 
         return self.plot_ephem(
             ephem, epoch, label=label, color=color, trail=trail

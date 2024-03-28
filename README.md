@@ -1,3 +1,5 @@
+The original poliastro libraty was archived, this is a fork of it with minor modifications
+
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 > _poliastro is archived and will not be developed any further, see https://github.com/poliastro/poliastro/issues/1640 for more context._

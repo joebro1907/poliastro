@@ -29,7 +29,6 @@ poliastro in your publications:
 
 ![Multiple examples image](https://github.com/poliastro/poliastro/raw/main/docs/source/_static/examples.png)
 
-
 ## Requirements
 
 poliastro requires the following Python packages:
@@ -44,7 +43,6 @@ poliastro requires the following Python packages:
 
 poliastro is supported on Linux, macOS and Windows on Python 3.8 to 3.11.
 
-
 ## Installation (this fork)
 
 ``python -m pip install https://github.com/joebro1907/poliastro/archive/main.zip``
@@ -56,7 +54,6 @@ be read on the wonderful [Read the Docs]. Multi-version documentation includes:
 
 * [Development documentation](https://docs.poliastro.space/en/latest/)
 * [Stable documentation](https://docs.poliastro.space/en/stable/)
-
 
 ## License
 
@@ -85,7 +82,6 @@ the library. Please refer to the [COPYING] file.
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 
-
 ## Problems and suggestions
 
 If for any reason you get an unexpected error message or an incorrect result,
@@ -110,24 +106,8 @@ I'm a begginer in Python, so I'll try my best, but that's what github is for: co
 [quickstart guide]: https://docs.poliastro.space/en/stable/quickstart.html
 [API reference]: https://docs.poliastro.space/en/latest/api.html
 [Read the docs]: https://readthedocs.org
-[binder]: https://mybinder.org/
-[alternative installation methods]: https://docs.poliastro.space/en/stable/installation.html#alternative-installation-methods
-[issue tracker]: https://github.com/poliastro/poliastro/issues 
-[CONTRIBUTING.md]: https://github.com/poliastro/poliastro/blob/main/CONTRIBUTING.md
+[issue tracker]: https://github.com/joebro1907/poliastro/issues
 [COPYING]: https://github.com/poliastro/poliastro/blob/main/COPYING
-[mailing list]: https://groups.io/g/poliastro-dev
-[chat room]: http://chat.poliastro.space/
-[let us know]: mailto:hello@juanlu.space
-[examples directory]: https://github.com/poliastro/poliastro/tree/main/docs/source/examples
-[docs_stable]: https://docs.poliastro.space/en/stable/
-[docs_latest]: https://docs.poliastro.space/en/latest/
-[commonly used Astrodynamics software]: https://docs.poliastro.space/en/stable/related.html
-[open an issue]: https://github.com/poliastro/validation/issues/new
-[milestones]: https://github.com/poliastro/poliastro/milestones
-[Want to be a backer]: https://opencollective.com/poliastro#backer
-[gallery of examples]: https://docs.poliastro.space/en/latest/gallery.html
-[becoming a backer]: https://opencollective.com/poliastro#backer
-[becoming a sponsor]: https://opencollective.com/poliastro#sponsor
 [acknowledgement from the original author]: https://docs.poliastro.space/en/stable/history.html#acknowledgement-from-the-original-author
 
 <!-- Badges -->

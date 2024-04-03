@@ -1,9 +1,7 @@
 **THE ORIGINAL POLIASTRO LIBRARY WAS ARCHIVED. This is a fork of it with minor modifications**
 
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-
-> _poliastro is archived and will not be developed any further, see https://github.com/poliastro/poliastro/issues/1640 for more context._
-> _Forks welcome, please respect the license by retaining attribution, and consider rebranding your fork if you intend to develop it in the long run._
+> _The original poliastro is archived and will not be developed any further, see https://github.com/poliastro/poliastro/issues/1640 for more context._
+> _Forks (like this one) are welcome, please respect the license by retaining attribution, and consider rebranding your fork if you intend to develop it in the long run._
 > _If you still use poliastro in your work, see below how to cite it._
 > _For a more complete background of the project, see https://conference.scipy.org/proceedings/scipy2022/juanluis_cano_poliastro.html._
 > Per Python ad astra!

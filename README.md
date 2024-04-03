@@ -22,7 +22,7 @@ conversion between position and velocity vectors and classical orbital elements
 and orbit plotting, among others.  It focuses on interplanetary applications,
 but can also be used to analyze artificial satellites in Low-Earth Orbit (LEO).
 
-If you use poliastro on your project, please [let us know]. Use the DOI to cite
+If you use poliastro on your project, please use the DOI to cite
 poliastro in your publications:
 
     Juan Luis Cano Rodríguez, Jorge Martinez, et al.. (2023). poliastro: poliastro 0.17.0. Zenodo. 10.5281/zenodo.6817189
